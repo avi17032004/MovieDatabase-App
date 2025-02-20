@@ -1,4 +1,3 @@
-"# MoviesHuntApp" 
 🎬 **MoviesHunt**  
 
 A React-based movie listing app that allows users to browse and explore details of various movies using **The Movie Database (TMDb) API**.  
