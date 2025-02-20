@@ -7,7 +7,7 @@ A React-based movie listing app that allows users to browse and explore details 
 [🔗 View Live Project](http://movieshuntdb.netlify.app)  
 
 ## 📋 **Features**  
-✅ Fetches movies from [TMDb API](https://api.themoviedb.org)  
+✅ Fetches movies from [API](https://api.themoviedb.org)  
 ✅ Displays movie details (title, rating, Run Time, Budget, Revenue, Relese Date, etc...)  
 ✅ Search functionality to find movies  
 ✅ Responsive design for all devices  
