@@ -16,7 +16,7 @@ A React-based movie listing app that allows users to browse and explore details 
 - ⚛️ **React.js** – Frontend framework  
 - 🎨 **HTML, CSS** – Styling and structure  
 - 💻 **JavaScript** – Dynamic interactions  
-- 🌐 **API** – [TMDb](https://api.themoviedb.org)  
+- 🌐 **API** – [API](https://api.themoviedb.org)  
 
 ## 🚀 **Installation & Setup**  
 To run this project locally, follow these steps:  
